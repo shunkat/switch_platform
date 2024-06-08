@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881152019942",
+    "project_id": "switch-review-platform",
+    "storage_bucket": "switch-review-platform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881152019942:android:506ddf6cf4834047721a27",
+        "android_client_info": {
+          "package_name": "com.example.switch_platform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMxT-1BiD1FE_NOe8YnBsfZhUvF_P2xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
