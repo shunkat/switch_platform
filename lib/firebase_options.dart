@@ -71,4 +71,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'switch-review-platform.appspot.com',
     iosBundleId: 'com.example.switchPlatform',
   );
+
 }
